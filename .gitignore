@@ -19,6 +19,7 @@ ENV/
 .env
 *.env
 /.env
+*env/
 
 # Django specific
 media/
